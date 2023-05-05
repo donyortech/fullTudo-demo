@@ -1,4 +1,4 @@
-# firebase-host
+# fullTodo-demo
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -26,4 +26,13 @@ npm run dev
 
 ```sh
 npm run build
+```
+![image](https://user-images.githubusercontent.com/83815560/236585245-d2dcd5a1-b26b-44ed-bacf-447ecca4a66f.png)
+
+```sh
+npm install bulma
+```
+
+```sh
+nom install firebase
 ```

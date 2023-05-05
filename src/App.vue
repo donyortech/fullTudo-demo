@@ -1,9 +1,7 @@
 <template>
   <!-- 
     0. npm init vue@latst
-    1. https://youtu.be/84mhLKUM04E 
     2. npm install bulma / https://bulma.io/
-    3. npm install uuid
   -->
   <div class="badass-todo">
     <div class="title has-text-centered">nextCode24 Todo</div>

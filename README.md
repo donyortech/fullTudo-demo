@@ -32,3 +32,7 @@ npm run build
 ```sh
 npm install bulma
 ```
+
+```sh
+nom install firebase
+```
